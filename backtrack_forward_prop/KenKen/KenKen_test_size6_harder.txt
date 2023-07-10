@@ -1,0 +1,18 @@
+AAABCCADEBFGHDEIFGHJKILMNJKOLMNPPOQQ
+A 180 x
+B 1 -
+C 2 /
+D 12 x
+E 6 x
+F 2 /
+G 6 +
+H 6 x
+I 2 /
+J 1 -
+K 7 +
+L 9 +
+M 2 -
+N 3 -
+O 3 /
+P 2 -
+Q 8 +

@@ -1,0 +1,155 @@
+A B C C C D 
+A B . . E D 
+G X X . E F
+G H H . E F
+. . I . . .
+J J I K K .
+
+A B C C C D
+A B . . E D
+G . X X E F
+G H H . E F
+. . I . . .
+J J I K K .
+
+A . C C C D
+A B . . E D
+G B X X E F
+G H H . E F
+. . I . . .
+J J I K K .
+
+A C C C . D
+A B . . E D
+G B X X E F
+G H H . E F
+. . I . . .
+J J I K K .
+
+A C C C E D
+A B . . E D
+G B X X E F
+G H H . . F
+. . I . . .
+J J I K K .
+
+A C C C E D
+A B . . E D
+G B X X E .
+G H H . . F
+. . I . . F
+J J I K K .
+
+A C C C E .
+A B . . E D
+G B X X E D
+G H H . . F
+. . I . . F
+J J I K K .
+
+A C C C E .
+A B . . E D
+. B X X E D
+G H H . . F
+G . I . . F
+J J I K K .
+
+A C C C E .
+A B . . E D
+. B X X E D
+G . . H H F
+G . I . . F
+J J I K K .
+
+A C C C E .
+A . . . E D
+. . X X E D
+G B . H H F
+G B I . . F
+J J I K K .
+
+A C C C E .
+A . . . E D
+X X . . E D
+G B . H H F
+G B I . . F
+J J I K K .
+
+A C C C E .
+A . I . E D
+X X I . E D
+G B . H H F
+G B . . . F
+J J . K K .
+
+A C C C E .
+A . I . E D
+X X I . E D
+G B H H . F
+G B . . . F
+J J . K K .
+
+A C C C E .
+A . I . E D
+X X I . E D
+G B H H . F
+G B . . . F
+J J K K . .
+
+A C C C . .
+A . I . . D
+X X I . . D
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . . C C C
+A . I . . D
+X X I . . D
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . I C C C
+A . I . . D
+X X . . . D
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . I C C C
+A . I . . D
+. . . X X D
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . . C C C
+A . I . . D
+. . I X X D
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . C C C .
+A . I . . D
+. . I X X D
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . C C C D
+A . I . . D
+. . I X X .
+G B H H E F
+G B . . E F
+J J K K E .
+
+A . C C C D
+A . I . . D
+. . I . . .
+G B H H E F
+G B . . E F
+J J K K E .
+
+This puzzle took 21 moves.

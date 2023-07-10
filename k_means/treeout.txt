@@ -1,0 +1,45 @@
+* V3?
+	* n
+		* V2?
+			* n
+				* V5?
+					* n
+						* V14?
+							* n --> republican
+							* y --> democrat
+					* y --> democrat
+			* y --> democrat
+	* y
+		* V10?
+			* n --> republican
+			* y
+				* V8?
+					* n
+						* V15?
+							* n
+								* Label?
+									* n
+										* V1?
+											* n --> democrat
+											* y
+												* V2?
+													* n
+														* V12?
+															* n --> democrat
+															* y --> republican
+													* y --> democrat
+									* y --> republican
+							* y
+								* V2?
+									* n --> republican
+									* y
+										* V1?
+											* n --> republican
+											* y --> democrat
+					* y
+						* Label?
+							* n --> democrat
+							* y
+								* V2?
+									* n --> democrat
+									* y --> republican

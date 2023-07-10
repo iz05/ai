@@ -1,0 +1,8 @@
+AABBCCDDECFFEGGF
+A 2 /
+B 1 -
+C 6 x
+D 8 x
+E 1 -
+F 5 +
+G 2 /

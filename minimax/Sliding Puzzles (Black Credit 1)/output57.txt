@@ -1,0 +1,18 @@
+Script started on Sun Sep 19 13:19:40 2021
+[1mczhu-vm[0m:/users/czhu/swDev/isa-$python3 SPB27.py[P[1@5
+Finished generating all possible combinations for rows and columns.
+Line 57: E.OHDFANJKCIGLBM, A* - 51 moves found in 20.210105660371482 seconds
+Line 58: ONFGJA.KLHDIBEMC, A* - 57 moves found in 2990.1642026100308 seconds
+Line 59: KNMABCLDOGIEJFH., A* - 66 moves found in 4089.893788399175 seconds
+Line 60: FMCBKIEJAGLNHD.O, A* - 45 moves found in 11.195760004222393 seconds
+Line 61: DFL.NBIMKHCOGJAE, A* - 57 moves found in 94.49044205155224 seconds
+Line 62: HJIKNAGOMD.LFBEC, A* - 56 moves found in 902.8532750485465 seconds
+Line 63: EBN.GHFCKLMODJIA, A* - 51 moves found in 201.16976187564433 seconds
+Line 64: GHCBJLDFKMEO.AIN, A* - 47 moves found in 16.956321518868208 seconds
+Line 65: KFNLCEAOH.JMIGDB, A* - 61 moves found in 3477.3483333960176 seconds
+Line 66: GABDHCFKJO.ENLMI, A* - 50 moves found in 139.95863254740834 seconds
+All puzzles were solved in 11944.250141749159 seconds.
+[1mczhu-vm[0m:/users/czhu/swDev/isa-$exit
+exit
+
+Script done on Sun Sep 19 18:11:20 2021

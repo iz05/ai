@@ -1,0 +1,12 @@
+def backtrack(state):
+if not a valid blocking: return None # but don't check this condition the first time you backtrack
+elif goal_state: return puzzle if valid, otherwise return None
+for space in get_spaces(state): # gets the spaces that could potentially be filled:
+	copy state into new_state
+	place block in space and update new_state
+	forward looking on new_state
+	if new_state is not None:
+		new_state = backtrack(new_state)
+		if new_state is not None: return new_state
+return None
+	

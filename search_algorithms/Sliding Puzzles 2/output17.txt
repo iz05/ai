@@ -1,0 +1,18 @@
+Script started on Sun Sep 19 13:14:14 2021
+[1mczhu-vm[0m:/users/czhu/swDev/isa-$exitcd /psv/psv7/czhu[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpython3 SPB17.py
+Finished generating all possible combinations for rows and columns.
+Line 17: F.NLAOIJKDGBHCEM, A* - 55 moves found in 55.818368112668395 seconds
+Line 18: GKHCN.FOADMIELBJ, A* - 46 moves found in 7.793583232909441 seconds
+Line 19: FLKCMGIOBNHJDAE., A* - 52 moves found in 112.59886687994003 seconds
+Line 20: LHNFKDG.EAJOCMIB, A* - 54 moves found in 252.92000543698668 seconds
+Line 21: NCIAOHDEKGJM.BLF, A* - 59 moves found in 271.2024276610464 seconds
+Line 22: JICK.MBNEFDGHOAL, A* - 49 moves found in 31.426865668967366 seconds
+Line 23: GCNMDAJHELIKBOF., A* - 54 moves found in 214.15948857925832 seconds
+Line 24: KDBGA.JOFINHCMEL, A* - 52 moves found in 131.55447411630303 seconds
+Line 25: EGCLOMNH.JIFADBK, A* - 58 moves found in 1064.2248549433425 seconds
+Line 26: NAHOBF.CILJMDGEK, A* - 53 moves found in 517.0376239838079 seconds
+All puzzles were solved in 2658.737467846833 seconds.
+[1mczhu-vm[0m:/users/czhu/swDev/isa-$exit
+exit
+
+Script done on Sun Sep 19 14:48:06 2021
