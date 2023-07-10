@@ -1,9 +1,0 @@
-Script started on Sun Sep 19 20:23:58 2021
-[1mczhu-vm[0m:/users/czhu/swDev/isa-$python3 SPB88.py8.py[K.py[K1.py6.py
-Finished generating all possible combinations for rows and columns.
-Line 16: ON.DKAFMGEHICBJL, A* - 66 moves found in 1680.3373577408493 seconds
-All puzzles were solved in 1680.3378947256133 seconds.
-[1mczhu-vm[0m:/users/czhu/swDev/isa-$exit
-exit
-
-Script done on Sun Sep 19 21:18:12 2021
